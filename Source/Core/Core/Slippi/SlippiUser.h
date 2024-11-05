@@ -31,7 +31,6 @@ class SlippiUser
 		int port;
 
 		std::vector<std::string> chatMessages;
-
 		bool is_bot = false;
 	};
 
